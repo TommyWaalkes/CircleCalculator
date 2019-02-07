@@ -1,0 +1,7 @@
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\CircleCalculator\bin\Debug\CircleCalculator.exe.config
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\CircleCalculator\bin\Debug\CircleCalculator.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\CircleCalculator\bin\Debug\CircleCalculator.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\CircleCalculator\obj\Debug\CircleCalculator.csprojAssemblyReference.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\CircleCalculator\obj\Debug\CircleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\CircleCalculator\obj\Debug\CircleCalculator.exe
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\_Breakouts\CircleCalculator\obj\Debug\CircleCalculator.pdb
